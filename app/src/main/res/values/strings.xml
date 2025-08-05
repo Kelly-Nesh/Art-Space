@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="artist_valeriia">Valeriia Miller</string>
+    <string name="title_valeriia">Cozy Bedroom Setup with Warm Lighting and Books</string>
+    <string name="year_valeriia">May 2, 2025</string>
+
+    <string name="artist_laura">Laura Meinhardt</string>
+    <string name="title_laura">Charming Narrow Alleyway in Palma, Mallorca</string>
+    <string name="year_laura">July 27th, 2025</string>
+
+    <string name="artist_golboo">Golboo Maghooli</string>
+    <string name="title_golboo">Rustic Wall with Blue Door and Bare Trees</string>
+    <string name="year_golboo">Mar 24, 2022</string>
+
+    <string name="artist_francesco">Francesco Ungaro</string>
+    <string name="title_francesco">Aerial View of Shipwrecks on Navagio Beach</string>
+    <string name="year_francesco">Jun 11, 2024</string>
+
+    <string name="artist_tim_martin">Tim &amp; Martin Klement</string>
+    <string name="title_tim_martin">Historic Norwegian Church in Blooming Landscape</string>
+    <string name="year_tim_martin">Jul 16, 2025</string>
+
+</resources>
